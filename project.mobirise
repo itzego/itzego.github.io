@@ -289,6 +289,9 @@
             },
             "H2": {
               "text-align": "center"
+            },
+            "P": {
+              "text-align": "center"
             }
           },
           "_name": "slider1",
@@ -304,13 +307,13 @@
           "_global": false,
           "_once": false,
           "_params": {
-            "slides__autoplay": "false",
+            "slides__autoplay": "true",
             "slides__autoplayInterval": 4000,
             "slides__showBullets": true,
             "slides": [
               {
                 "image": "@PROJECT_PATH@/assets/images/1200x630wa-1200x630.png",
-                "active": true,
+                "active": false,
                 "showButtons": true,
                 "showText": true,
                 "showTitle": true,
@@ -329,8 +332,8 @@
                 "overlayOpacity": "0.5"
               },
               {
-                "image": "@PROJECT_PATH@/assets/images/images-284x177.jpg",
-                "active": false,
+                "image": "@PROJECT_PATH@/assets/images/photofunia-1585388731-1200x630.jpg",
+                "active": true,
                 "showButtons": true,
                 "showText": true,
                 "showTitle": true,
@@ -341,11 +344,11 @@
                 "customStyle3": "display-4",
                 "alt": "",
                 "title": "",
-                "textTitle": "VIDEO SLIDE",
+                "textTitle": "Download for Daily Use - Android-Application",
                 "overlay": true,
-                "contentAlign": "left",
-                "text": "Slide with youtube video background and color overlay. Title and text are aligned to the left.",
-                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" data-app-placeholder=\"Type Text\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn  btn-white-outline\" data-app-placeholder=\"Type Text\" href=\"https://mobirise.com\">FOR MAC</a>"
+                "contentAlign": "center",
+                "text": "Social for job and daily use applications download links",
+                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary display-4\" data-app-placeholder=\"Type Text\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn  btn-white-outline display-4\" data-app-placeholder=\"Type Text\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">FOR MAC</a>"
               },
               {
                 "image": "@PROJECT_PATH@/assets/images/mbr-1920x1280.jpg",
