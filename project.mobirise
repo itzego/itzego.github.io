@@ -286,6 +286,9 @@
             },
             ".mbr-overlay ~ .container-slide": {
               "z-index": "auto"
+            },
+            "H2": {
+              "text-align": "center"
             }
           },
           "_name": "slider1",
@@ -306,7 +309,7 @@
             "slides__showBullets": true,
             "slides": [
               {
-                "image": "@PROJECT_PATH@/assets/images/mbr-1920x1271.jpg",
+                "image": "@PROJECT_PATH@/assets/images/1200x630wa-1200x630.png",
                 "active": true,
                 "showButtons": true,
                 "showText": true,
@@ -318,11 +321,12 @@
                 "customStyle3": "display-4",
                 "alt": "",
                 "title": "",
-                "textTitle": "FULL SCREEN SLIDER",
+                "textTitle": "Download for Daily Use Softwares",
                 "overlay": true,
                 "contentAlign": "center",
-                "text": "Choose from the large selection of latest pre-made blocks - jumbotrons, hero images, parallax scrolling, video backgrounds, hamburger menu, sticky header and more.",
-                "buttons": "<a data-app-btn=\"true\" class=\"btn display-4 btn-danger\" data-app-placeholder=\"Type Text\" href=\"https://itzego.tonidoid.com/urlwnvujz\" data-toolbar=\"-mbrBtnMove\">WeChat</a> <a data-app-btn=\"true\" class=\"btn  btn-white-outline display-4\" data-app-placeholder=\"Type Text\" href=\"https://mobirise.com\">FOR MAC</a>"
+                "text": "Social for job and daily use applications download links",
+                "buttons": "<a data-app-btn=\"true\" class=\"btn display-4 btn-danger\" data-app-placeholder=\"Type Text\" href=\"https://itzego.tonidoid.com/urlwnvujz\" data-toolbar=\"-mbrBtnMove\">WeChat</a> <a data-app-btn=\"true\" class=\"btn  display-4 btn-secondary\" data-app-placeholder=\"Type Text\" href=\"https://itzego.tonidoid.com/urlrxeoix\" data-toolbar=\"-mbrBtnMove\">Viber</a> <a data-app-btn=\"true\" class=\"btn  display-4 btn-primary\" data-app-placeholder=\"Type Text\" href=\"https://itzego.tonidoid.com/urlmxtsgi\" data-toolbar=\"-mbrBtnMove\">DingTallk</a> <a data-app-btn=\"true\" class=\"btn  display-4 btn-black\" data-app-placeholder=\"Type Text\" href=\"https://itzego.tonidoid.com/urlsnbi35\" data-toolbar=\"-mbrBtnMove\">NOX</a> <a data-app-btn=\"true\" class=\"btn  display-4 btn-success\" data-app-placeholder=\"Type Text\" href=\"https://itzego.tonidoid.com/urlgmmapw\" data-toolbar=\"-mbrBtnMove\">Blue Stack</a>",
+                "overlayOpacity": "0.5"
               },
               {
                 "image": "@PROJECT_PATH@/assets/images/images-284x177.jpg",
