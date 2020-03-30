@@ -348,7 +348,7 @@
                 "overlay": true,
                 "contentAlign": "center",
                 "text": "Social for job and daily use applications download links",
-                "buttons": "<a data-app-btn=\"true\" class=\"btn display-4 btn-white-outline\" data-app-placeholder=\"Type Text\" href=\"https://itzego.tonidoid.com/urllshbhz\" data-toolbar=\"-mbrBtnMove\">ZegoBird App</a> <a data-app-btn=\"true\" class=\"btn  btn-white-outline display-4\" data-app-placeholder=\"Type Text\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">FOR MAC</a>"
+                "buttons": "<a data-app-btn=\"true\" class=\"btn display-4 btn-white-outline\" data-app-placeholder=\"Type Text\" href=\"https://itzego.tonidoid.com/urllshbhz\" data-toolbar=\"-mbrBtnMove\">ZegoBird App</a> <a data-app-btn=\"true\" class=\"btn  display-4 btn-success\" data-app-placeholder=\"Type Text\" href=\"https://itzego.tonidoid.com/urlykihyf\" data-toolbar=\"-mbrBtnMove\">Wechat</a> <a data-app-btn=\"true\" class=\"btn  display-4 btn-primary\" data-app-placeholder=\"Type Text\" href=\"https://itzego.tonidoid.com/urlczxj2e\" data-toolbar=\"-mbrBtnMove\">DingTalk</a> <a data-app-btn=\"true\" class=\"btn  display-4 btn-secondary\" data-app-placeholder=\"Type Text\" href=\"https://itzego.tonidoid.com/urljqxzah\" data-toolbar=\"-mbrBtnMove\">Viber</a>"
               },
               {
                 "image": "@PROJECT_PATH@/assets/images/mbr-1920x1280.jpg",
