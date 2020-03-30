@@ -328,12 +328,12 @@
                 "overlay": true,
                 "contentAlign": "center",
                 "text": "Social for job and daily use applications download links",
-                "buttons": "<a data-app-btn=\"true\" class=\"btn display-4 btn-danger\" data-app-placeholder=\"Type Text\" href=\"https://itzego.tonidoid.com/urlwnvujz\" data-toolbar=\"-mbrBtnMove\">WeChat</a> <a data-app-btn=\"true\" class=\"btn  display-4 btn-secondary\" data-app-placeholder=\"Type Text\" href=\"https://itzego.tonidoid.com/urlrxeoix\" data-toolbar=\"-mbrBtnMove\">Viber</a> <a data-app-btn=\"true\" class=\"btn  display-4 btn-primary\" data-app-placeholder=\"Type Text\" href=\"https://itzego.tonidoid.com/urlmxtsgi\" data-toolbar=\"-mbrBtnMove\">DingTallk</a> <a data-app-btn=\"true\" class=\"btn  display-4 btn-black\" data-app-placeholder=\"Type Text\" href=\"https://itzego.tonidoid.com/urlsnbi35\" data-toolbar=\"-mbrBtnMove\">NOX</a> <a data-app-btn=\"true\" class=\"btn  display-4 btn-success\" data-app-placeholder=\"Type Text\" href=\"https://itzego.tonidoid.com/urlgmmapw\" data-toolbar=\"-mbrBtnMove\">Blue Stack</a>",
+                "buttons": "<a data-app-btn=\"true\" class=\"btn display-4 btn-danger\" data-app-placeholder=\"Type Text\" href=\"https://itzego.tonidoid.com/urlwnvujz\" data-toolbar=\"-mbrBtnMove\"><span class=\"mbri-download mbr-iconfont mbr-iconfont-btn\"></span>WeChat</a> <a data-app-btn=\"true\" class=\"btn  display-4 btn-secondary\" data-app-placeholder=\"Type Text\" href=\"https://itzego.tonidoid.com/urlrxeoix\" data-toolbar=\"-mbrBtnMove\"><span class=\"mbri-download mbr-iconfont mbr-iconfont-btn\"></span>Viber</a> <a data-app-btn=\"true\" class=\"btn  display-4 btn-primary\" data-app-placeholder=\"Type Text\" href=\"https://itzego.tonidoid.com/urlmxtsgi\" data-toolbar=\"-mbrBtnMove\"><span class=\"mbri-download mbr-iconfont mbr-iconfont-btn\"></span>DingTallk</a> <a data-app-btn=\"true\" class=\"btn  display-4 btn-black\" data-app-placeholder=\"Type Text\" href=\"https://itzego.tonidoid.com/urlsnbi35\" data-toolbar=\"-mbrBtnMove\"><span class=\"mbri-download mbr-iconfont mbr-iconfont-btn\"></span>NOX</a> <a data-app-btn=\"true\" class=\"btn  display-4 btn-success\" data-app-placeholder=\"Type Text\" href=\"https://itzego.tonidoid.com/urlgmmapw\" data-toolbar=\"-mbrBtnMove\"><span class=\"mbri-download mbr-iconfont mbr-iconfont-btn\"></span>Blue Stack</a>",
                 "overlayOpacity": "0.5"
               },
               {
                 "image": "@PROJECT_PATH@/assets/images/photofunia-1585388731-1200x630.jpg",
-                "active": false,
+                "active": true,
                 "showButtons": true,
                 "showText": true,
                 "showTitle": true,
@@ -348,11 +348,11 @@
                 "overlay": true,
                 "contentAlign": "center",
                 "text": "Social for job and daily use applications download links",
-                "buttons": "<a data-app-btn=\"true\" class=\"btn display-4 btn-white-outline\" data-app-placeholder=\"Type Text\" href=\"https://itzego.tonidoid.com/urllshbhz\" data-toolbar=\"-mbrBtnMove\">ZegoBird App</a> <a data-app-btn=\"true\" class=\"btn  display-4 btn-success\" data-app-placeholder=\"Type Text\" href=\"https://itzego.tonidoid.com/urlykihyf\" data-toolbar=\"-mbrBtnMove\">Wechat</a> <a data-app-btn=\"true\" class=\"btn  display-4 btn-primary\" data-app-placeholder=\"Type Text\" href=\"https://itzego.tonidoid.com/urlczxj2e\" data-toolbar=\"-mbrBtnMove\">DingTalk</a> <a data-app-btn=\"true\" class=\"btn  display-4 btn-secondary\" data-app-placeholder=\"Type Text\" href=\"https://itzego.tonidoid.com/urljqxzah\" data-toolbar=\"-mbrBtnMove\">Viber</a>"
+                "buttons": "<a data-app-btn=\"true\" class=\"btn display-4 btn-white-outline\" data-app-placeholder=\"Type Text\" href=\"https://itzego.tonidoid.com/urllshbhz\" data-toolbar=\"-mbrBtnMove\"><span class=\"mbri-download mbr-iconfont mbr-iconfont-btn\"></span>ZegoBird App</a> <a data-app-btn=\"true\" class=\"btn  display-4 btn-success\" data-app-placeholder=\"Type Text\" href=\"https://itzego.tonidoid.com/urlykihyf\" data-toolbar=\"-mbrBtnMove\"><span class=\"mbri-download mbr-iconfont mbr-iconfont-btn\"></span>Wechat</a> <a data-app-btn=\"true\" class=\"btn  display-4 btn-primary\" data-app-placeholder=\"Type Text\" href=\"https://itzego.tonidoid.com/urlczxj2e\" data-toolbar=\"-mbrBtnMove\"><span class=\"mbri-download mbr-iconfont mbr-iconfont-btn\"></span>DingTalk</a> <a data-app-btn=\"true\" class=\"btn  display-4 btn-secondary\" data-app-placeholder=\"Type Text\" href=\"https://itzego.tonidoid.com/urljqxzah\" data-toolbar=\"-mbrBtnMove\"><span class=\"mbri-download mbr-iconfont mbr-iconfont-btn\"></span>Viber</a>"
               },
               {
                 "image": "@PROJECT_PATH@/assets/images/photofunia-1585388693-1200x630.jpeg",
-                "active": true,
+                "active": false,
                 "showButtons": true,
                 "showText": true,
                 "showTitle": true,
@@ -367,7 +367,7 @@
                 "overlay": true,
                 "contentAlign": "center",
                 "text": "Some Application are super but difficult to find out .<br>Just take it from this sites as full versions .",
-                "buttons": "<a data-app-btn=\"true\" class=\"btn display-4 btn-danger\" data-app-placeholder=\"Type Text\" href=\"https://itzego.tonidoid.com/urlerzdhq\" data-toolbar=\"-mbrBtnMove\">IDM Full</a> <a data-app-btn=\"true\" class=\"btn  display-4 btn-white\" data-app-placeholder=\"Type Text\" href=\"https://itzego.tonidoid.com/urlrul5i3\" data-toolbar=\"-mbrBtnMove\">Betrnet(VPN)</a> <a data-app-btn=\"true\" class=\"btn  display-4 btn-primary\" data-app-placeholder=\"Type Text\" href=\"https://itzego.tonidoid.com/urlxxsyv1\" data-toolbar=\"-mbrBtnMove\">Photoshop</a> <a data-app-btn=\"true\" class=\"btn  display-4 btn-warning\" data-app-placeholder=\"Type Text\" href=\"https://itzego.tonidoid.com/urlg20i4t\" data-toolbar=\"-mbrBtnMove\">Flimora9</a>"
+                "buttons": "<a data-app-btn=\"true\" class=\"btn display-4 btn-danger\" data-app-placeholder=\"Type Text\" href=\"https://itzego.tonidoid.com/urlerzdhq\" data-toolbar=\"-mbrBtnMove\"><span class=\"mbri-download mbr-iconfont mbr-iconfont-btn\"></span>IDM Full</a> <a data-app-btn=\"true\" class=\"btn  display-4 btn-white\" data-app-placeholder=\"Type Text\" href=\"https://itzego.tonidoid.com/urlrul5i3\" data-toolbar=\"-mbrBtnMove\"><span class=\"mbri-download mbr-iconfont mbr-iconfont-btn\"></span>Betrnet(VPN)</a> <a data-app-btn=\"true\" class=\"btn  display-4 btn-primary\" data-app-placeholder=\"Type Text\" href=\"https://itzego.tonidoid.com/urlxxsyv1\" data-toolbar=\"-mbrBtnMove\"><span class=\"mbri-download mbr-iconfont mbr-iconfont-btn\"></span>Photoshop</a> <a data-app-btn=\"true\" class=\"btn  display-4 btn-warning\" data-app-placeholder=\"Type Text\" href=\"https://itzego.tonidoid.com/urlg20i4t\" data-toolbar=\"-mbrBtnMove\"><span class=\"mbri-download mbr-iconfont mbr-iconfont-btn\"></span>Flimora9</a>"
               }
             ]
           }
