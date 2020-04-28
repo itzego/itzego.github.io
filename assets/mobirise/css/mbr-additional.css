@@ -1191,6 +1191,10 @@ section.lazy-placeholder:after {
 .cid-rXqv7ZiSuL .collapsed .navbar-collapse.show .navbar-nav .nav-item {
   clear: both;
 }
+.cid-rXqv7ZiSuL .collapsed .navbar-collapse.collapsing .navbar-nav .nav-item:last-child,
+.cid-rXqv7ZiSuL .collapsed .navbar-collapse.show .navbar-nav .nav-item:last-child {
+  margin-bottom: 1rem;
+}
 .cid-rXqv7ZiSuL .collapsed .navbar-collapse.collapsing .navbar-buttons,
 .cid-rXqv7ZiSuL .collapsed .navbar-collapse.show .navbar-buttons {
   text-align: center;
@@ -1291,6 +1295,10 @@ section.lazy-placeholder:after {
   .cid-rXqv7ZiSuL .navbar-collapse.collapsing .navbar-nav .nav-item,
   .cid-rXqv7ZiSuL .navbar-collapse.show .navbar-nav .nav-item {
     clear: both;
+  }
+  .cid-rXqv7ZiSuL .navbar-collapse.collapsing .navbar-nav .nav-item:last-child,
+  .cid-rXqv7ZiSuL .navbar-collapse.show .navbar-nav .nav-item:last-child {
+    margin-bottom: 1rem;
   }
   .cid-rXqv7ZiSuL .navbar-collapse.collapsing .navbar-buttons,
   .cid-rXqv7ZiSuL .navbar-collapse.show .navbar-buttons {
@@ -1591,6 +1599,10 @@ section.lazy-placeholder:after {
 .cid-rXqv7ZiSuL .collapsed .navbar-collapse.show .navbar-nav .nav-item {
   clear: both;
 }
+.cid-rXqv7ZiSuL .collapsed .navbar-collapse.collapsing .navbar-nav .nav-item:last-child,
+.cid-rXqv7ZiSuL .collapsed .navbar-collapse.show .navbar-nav .nav-item:last-child {
+  margin-bottom: 1rem;
+}
 .cid-rXqv7ZiSuL .collapsed .navbar-collapse.collapsing .navbar-buttons,
 .cid-rXqv7ZiSuL .collapsed .navbar-collapse.show .navbar-buttons {
   text-align: center;
@@ -1692,6 +1704,10 @@ section.lazy-placeholder:after {
   .cid-rXqv7ZiSuL .navbar-collapse.show .navbar-nav .nav-item {
     clear: both;
   }
+  .cid-rXqv7ZiSuL .navbar-collapse.collapsing .navbar-nav .nav-item:last-child,
+  .cid-rXqv7ZiSuL .navbar-collapse.show .navbar-nav .nav-item:last-child {
+    margin-bottom: 1rem;
+  }
   .cid-rXqv7ZiSuL .navbar-collapse.collapsing .navbar-buttons,
   .cid-rXqv7ZiSuL .navbar-collapse.show .navbar-buttons {
     text-align: center;
@@ -1754,4 +1770,14 @@ section.lazy-placeholder:after {
 .cid-rXqv7ZiSuL .nav-link:hover,
 .cid-rXqv7ZiSuL .dropdown-item:hover {
   color: #c1c1c1 !important;
+}
+.cid-rXqBIYIcjU {
+  padding-top: 120px;
+  padding-bottom: 120px;
+  background-color: #ffffff;
+}
+.cid-rXqCQlTREI {
+  padding-top: 60px;
+  padding-bottom: 60px;
+  background-color: #ffffff;
 }
