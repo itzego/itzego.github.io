@@ -313,7 +313,7 @@
             },
             "P": {
               "text-align": "center",
-              "color": "#ff7f9f"
+              "color": "#ffffff"
             }
           },
           "_name": "slider1",
@@ -369,7 +369,7 @@
                 "textTitle": "Download - Android-Application",
                 "overlay": true,
                 "contentAlign": "center",
-                "text": "",
+                "text": "Android App Download",
                 "buttons": "<a data-app-btn=\"true\" class=\"btn display-4 btn-white-outline\" data-app-placeholder=\"Type Text\" href=\"https://itzego.tonidoid.com/urllshbhz\" data-toolbar=\"-mbrBtnMove\"><span class=\"mbri-download mbr-iconfont mbr-iconfont-btn\"></span>ZegoBird App</a> <a data-app-btn=\"true\" class=\"btn  display-4 btn-success\" data-app-placeholder=\"Type Text\" href=\"https://itzego.tonidoid.com/urlnrqpu1\" data-toolbar=\"-mbrBtnMove\"><span class=\"mbri-download mbr-iconfont mbr-iconfont-btn\"></span>Dealer</a> <a data-app-btn=\"true\" class=\"btn  display-4 btn-white\" data-app-placeholder=\"Type Text\" href=\"https://itzego.tonidoid.com/urlmwvlz1\" data-toolbar=\"-mbrBtnMove\"><span class=\"mbri-download mbr-iconfont mbr-iconfont-btn\"></span>Agent</a> <a data-app-btn=\"true\" class=\"btn  display-4 btn-secondary\" data-app-placeholder=\"Type Text\" href=\"https://itzego.tonidoid.com/urlxcwf1m\" data-toolbar=\"-mbrBtnMove\"><span class=\"mbri-download mbr-iconfont mbr-iconfont-btn\"></span>SKU<br></a> <a data-app-btn=\"true\" class=\"btn  display-4 btn-white-outline\" data-app-placeholder=\"Type Text\" href=\"https://apps.apple.com/us/app/zegobird-online-shopping-app/id1262991594\" data-toolbar=\"-mbrBtnMove\"><span class=\"mbri-download mbr-iconfont mbr-iconfont-btn\"></span>ZegoBIrd IOS App&nbsp;</a> <a data-app-btn=\"true\" class=\"btn  display-4 btn-black\" data-app-placeholder=\"Type Text\" href=\"https://itzego.tonidoid.com/urlykihyf\" data-toolbar=\"-mbrBtnMove\"><span class=\"mbri-download mbr-iconfont mbr-iconfont-btn\"></span>WeChat</a>   "
               },
               {
