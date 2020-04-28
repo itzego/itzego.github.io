@@ -2165,29 +2165,67 @@ section.lazy-placeholder:after {
 .cid-rXqY04CQ1o .dropdown-item:hover {
   color: #c1c1c1 !important;
 }
-.cid-rXrEBQxqPq {
-  background-image: url("../../../assets/images/1200x630wa-1200x630.png");
+.cid-rXrLdIHjqc {
+  padding-top: 90px;
+  padding-bottom: 90px;
+  background-color: #ffffff;
 }
-.cid-rXrEBQxqPq .icons-media-container {
+.cid-rXrLdIHjqc .title {
+  padding-bottom: 2.5rem;
+}
+.cid-rXrLdIHjqc h4 {
+  width: 85%;
+  font-weight: 500;
+  margin-bottom: 0;
+}
+.cid-rXrLdIHjqc .bottom-line p {
+  color: #767676;
+}
+.cid-rXrLdIHjqc .card-wrapper {
+  background-color: #ffffff;
+  background-color: transparent;
+  position: relative;
+  justify-content: unset;
+}
+.cid-rXrLdIHjqc .card-wrapper .card-box {
+  width: 100%;
+}
+.cid-rXrLdIHjqc .card-wrapper .card-box .wrapper {
+  height: 100%;
   display: flex;
-  -webkit-justify-content: center;
+  flex-direction: column;
   justify-content: center;
-  -webkit-flex-direction: row;
-  flex-direction: row;
-  -webkit-flex-wrap: wrap;
-  flex-wrap: wrap;
-  padding-top: 4rem;
+  align-items: flex-start;
 }
-.cid-rXrEBQxqPq .icons-media-container .mbr-iconfont {
-  font-size: 96px;
-  color: #ffffff;
+.cid-rXrLdIHjqc .card-wrapper .card-box .wrapper .top-line {
+  width: 100%;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
 }
-.cid-rXrEBQxqPq .icons-media-container .icon-block {
-  padding-bottom: 1rem;
+.cid-rXrLdIHjqc .card-wrapper .card-box .wrapper .bottom-line {
+  width: 85%;
 }
-.cid-rXrEBQxqPq .mbr-text {
-  color: #ffffff;
+@media (max-width: 767px) {
+  .cid-rXrLdIHjqc .card-wrapper .card-box .wrapper .bottom-line {
+    width: 100%;
+  }
+  .cid-rXrLdIHjqc .card-wrapper .card-box .wrapper .bottom-line p {
+    text-align: center;
+    margin: 1rem 0 0 0;
+  }
 }
-.cid-rXrEBQxqPq .card {
-  padding-bottom: 1.5rem;
+@media (max-width: 767px) {
+  .cid-rXrLdIHjqc .card.pb-5 {
+    padding-bottom: 2rem !important;
+  }
+  .cid-rXrLdIHjqc .wrapper {
+    padding-top: 1rem;
+  }
+}
+.cid-rXrLdIHjqc .card-title {
+  text-align: left;
+}
+.cid-rXrLdIHjqc .cost {
+  color: #073b4c;
 }
