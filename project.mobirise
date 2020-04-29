@@ -1871,7 +1871,7 @@
               "text-align": "left"
             },
             ".cost P": {
-              "text-align": "center"
+              "text-align": "right"
             }
           },
           "_name": "services6",
