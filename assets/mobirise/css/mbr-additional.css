@@ -1362,7 +1362,7 @@ section.lazy-placeholder:after {
 }
 .cid-rXqCQlTREI {
   padding-top: 60px;
-  padding-bottom: 60px;
+  padding-bottom: 0px;
   background-color: #2e2e2e;
 }
 .cid-rXqY04CQ1o .navbar {
@@ -1764,6 +1764,11 @@ section.lazy-placeholder:after {
 .cid-rXqY04CQ1o .nav-link:hover,
 .cid-rXqY04CQ1o .dropdown-item:hover {
   color: #c1c1c1 !important;
+}
+.cid-rYunF0MLEm {
+  padding-top: 60px;
+  padding-bottom: 60px;
+  background-color: #ffffff;
 }
 .cid-rXqY04CQ1o .navbar {
   padding: .5rem 0;
