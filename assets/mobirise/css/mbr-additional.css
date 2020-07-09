@@ -3215,3 +3215,21 @@ section.lazy-placeholder:after {
     padding-top: 3rem;
   }
 }
+.cid-s4g8xzJ8oc {
+  padding-top: 30px;
+  padding-bottom: 0px;
+  background-color: #232323;
+}
+.cid-s4g6jg6w2C {
+  background: #232323;
+  padding-top: 0px;
+  padding-bottom: 0px;
+}
+.cid-s4g6jg6w2C .video-block {
+  margin: auto;
+}
+@media (max-width: 768px) {
+  .cid-s4g6jg6w2C .video-block {
+    width: 100% !important;
+  }
+}
