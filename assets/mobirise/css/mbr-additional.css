@@ -3221,9 +3221,9 @@ section.lazy-placeholder:after {
   color: #c1c1c1 !important;
 }
 .cid-slzvrI7OE1 {
-  padding-top: 90px;
+  padding-top: 105px;
   padding-bottom: 90px;
-  background-color: #efefef;
+  background-image: url("../../../assets/images/eps-800x800.jpg");
 }
 .cid-slzvrI7OE1 .card-box {
   padding: 0 2rem;
@@ -3259,4 +3259,7 @@ section.lazy-placeholder:after {
 .cid-slzvrI7OE1 .card-wrapper:hover {
   box-shadow: 0px 0px 30px 0px rgba(0, 0, 0, 0.05);
   transition: box-shadow 0.3s;
+}
+.cid-slzvrI7OE1 .card-title {
+  text-align: center;
 }
